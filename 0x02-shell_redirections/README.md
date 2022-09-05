@@ -1,1 +1,1 @@
-Diplays first 10 lines of /etc/passwd
+displaying the third line of iacta file
