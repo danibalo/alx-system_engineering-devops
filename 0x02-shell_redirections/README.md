@@ -1,1 +1,1 @@
-This prints file
+Displaying two file contents
