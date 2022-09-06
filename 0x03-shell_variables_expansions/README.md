@@ -1,1 +1,1 @@
-this creates an alias.
+this prints hello user, where user is the current Linux user.
