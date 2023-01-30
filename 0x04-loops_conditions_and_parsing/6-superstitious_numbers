@@ -14,7 +14,7 @@ do
 		17 )
 			echo "$i bad luck from Italy";;
 		* )
-			echo "$i"
+			echo "$i";;
 	esac
 i=$((i + 1))
 done
